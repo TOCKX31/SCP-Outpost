@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SCP: Outpost | PARCY</title>
+
+    <style>
+        body {
+            margin: 0;
+            background: #101216;
+            color: white;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            text-align: center;
+        }
+
+        .container {
+            padding: 30px;
+        }
+
+        h1 {
+            font-size: 42px;
+            letter-spacing: 3px;
+        }
+
+        p {
+            color: #aaa;
+            font-size: 16px;
+        }
+
+        .download {
+            display: inline-block;
+            margin-top: 25px;
+            padding: 16px 35px;
+            background: #d6b400;
+            color: #111;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+
+        .download:hover {
+            background: #f0d000;
+        }
+
+        .footer {
+            margin-top: 50px;
+            color: #666;
+            font-size: 13px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>SCP: OUTPOST</h1>
+        <p>A multiplayer SCP experience.</p>
+        <p>Developed by PARCY</p>
+
+        <a class="download" href="PASTE_RELEASE_ZIP_URL_HERE">
+            DOWNLOAD GAME
+        </a>
+
+        <div class="footer">
+            SCP: Outpost Release 0.4
+        </div>
+    </div>
+</body>
+</html>
